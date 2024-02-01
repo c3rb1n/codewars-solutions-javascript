@@ -1,0 +1,1 @@
+const correctTail = (body, tail) => body[body.length - 1] === tail;
