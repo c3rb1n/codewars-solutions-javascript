@@ -1,2 +1,2 @@
 const reg = /"[^"]+"/g;
-const getQuotes = (string) => string.match(reg)
+const getQuotes = string => string.match(reg);
