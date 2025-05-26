@@ -1,0 +1,1 @@
+const digitAll = (x) => typeof x === 'string' ? x.replace(/[^\d]/g, '') : 'Invalid input !';
